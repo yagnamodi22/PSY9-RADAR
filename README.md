@@ -133,16 +133,11 @@ http://127.0.0.1:5000
 ## Dashboard Preview
 
 ### Main Dashboard
-
-![PSY9 Radar Dashboard](screenshots/dashboard.png)
+![PSY9 Radar Dashboard](screenshots/Dashboard.png)
 
 ### IP Reputation Checker
+![IP Reputation Tool](screenshots/Ip-checker.png)
 
-![IP Reputation Tool](screenshots/results.png (1))
-
-### Threat Intelligence Results
-
-![Threat Intelligence Results](screenshots/results.png (2))
 
 ---
 
