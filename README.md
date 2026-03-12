@@ -1,6 +1,12 @@
 # PSY9 Radar
 ### Where Intelligence Meets Defense
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Flask](https://img.shields.io/badge/Framework-Flask-green)
+![Threat Intelligence](https://img.shields.io/badge/Threat-Intelligence-red)
+![SOC Tool](https://img.shields.io/badge/SOC-Dashboard-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 PSY9 Radar is a **SOC-oriented Threat Intelligence Dashboard** built to help security analysts investigate and analyze large volumes of IP addresses quickly using multiple threat intelligence sources.
 
 The platform aggregates intelligence from **AbuseIPDB, VirusTotal, and AlienVault OTX** to detect malicious activity, classify risk levels, and assist analysts in threat triage workflows.
